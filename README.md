@@ -5,7 +5,7 @@
 
 <div id="badges">
   <div align="center">
-  <a href="https://www.linkedin.com/in/jagadeesh-pradhani/">
+  <a href="https://www.linkedin.com/in/jagadeesh-pradhani-b81364251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://x.com/KhanzFardin?t=rODqwlY9kHU3KJHSzkKRHQ&s=09">
