@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Lg6vO9CNlQmUna1c5i" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/AppsFlyer-workhard-appsflyer-lifeatappsflyer-Lg6vO9CNlQmUna1c5i" width="250" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxkNnF5bml3bXJoaGVuNWlzN2lncnV6c2w5OTd6bXB2b3l4cXZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lg6vO9CNlQmUna1c5i/giphy.gif" width="250" />
 </div>
 
 <div id="badges">
