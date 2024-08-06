@@ -18,9 +18,9 @@
   </a>-->
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jagadeesh-pradhani&style=flat-square&color=green" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=Jagadeesh-pradhani&style=flat-square&color=green" alt=""/>-->
 <h1>
-    Hello there, I'm Fardin Khan
+    Hello there, I'm Jagadeesh Pradhani
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
