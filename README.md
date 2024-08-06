@@ -32,11 +32,11 @@
 ---
 ### :man_technologist: About Me :
 I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :computer: Proficient in programming, AI, embedded systems, and digital electronics.
+- :computer: Proficient in programming, robotics, embedded systems, computer architecture and digital electronics.
 
-- :seedling: Enthusiastic problem solver, engaging in coursework, research, and personal projects to enhance expertise.
+- :seedling: Dedicated problem solver who expands knowledge through education, research, and independent projects.
 
-- :zap: In my free time, I read tech articles and hone my soft skills.
+- :zap: In my free time, I simulate robotics in ROS and read tech articles.
 
 - :mailbox:How to reach me: jagadeesh.d.pradhani@gmail.com
 
