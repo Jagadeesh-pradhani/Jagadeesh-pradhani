@@ -38,8 +38,7 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I read tech articles and hone my soft skills.
 
-- :mailbox:How to reach me: fardinkhanz2410@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fardin--khan)
--->
+- :mailbox:How to reach me: jagadeesh.d.pradhani@gmail.com
 
 ---
 ### :climbing_man: My Stats:
