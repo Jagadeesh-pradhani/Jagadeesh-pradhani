@@ -18,7 +18,7 @@
   </a>-->
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=fardinkhanz&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Jagadeesh-pradhani&style=flat-square&color=green" alt=""/>
 <h1>
     Hello there, I'm Fardin Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
