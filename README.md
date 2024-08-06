@@ -49,7 +49,7 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-pradhani&hide_progress=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh-pradhani&" alt="jagadeesh-pradhani" /></p>
+<p><img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeesh-pradhani&" alt="jagadeesh-pradhani" /></p>
 
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
