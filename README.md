@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/jagadeesh-pradhani-b81364251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    
+<!--     https://komarev.com/ghpvc/?username=jagadeesh-pradhani
+     -->
     <!--
    <a href="https://x.com/KhanzFardin?t=rODqwlY9kHU3KJHSzkKRHQ&s=09">
      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
