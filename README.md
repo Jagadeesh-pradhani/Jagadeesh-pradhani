@@ -10,12 +10,9 @@
   </a>
     
   
-    <!-- https://komarev.com/ghpvc/?username=jagadeesh-pradhani
+    <!-- https://komarev.com/ghpvc/?username=jagadeesh-pradhani -->
 
-    <!--
-  <a href="https://www.instagram.com/fardin__khan/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>-->
+
 </div>
 <div align="center">
 <!--<img src="https://komarev.com/ghpvc/?username=Jagadeesh-pradhani&style=flat-square&color=green" alt=""/>-->
