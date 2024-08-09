@@ -10,12 +10,13 @@
   </a>
     
   
-    <!-- https://komarev.com/ghpvc/?username=jagadeesh-pradhani -->
+    
 
 
 </div>
 <div align="center">
 <!--<img src="https://komarev.com/ghpvc/?username=Jagadeesh-pradhani&style=flat-square&color=green" alt=""/>-->
+  <!-- https://komarev.com/ghpvc/?username=jagadeesh-pradhani -->
 <h1>
     Hello there, I'm Jagadeesh Pradhani
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
