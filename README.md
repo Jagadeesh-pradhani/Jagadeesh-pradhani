@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://www.fiverr.com/s/WEVw6Wd">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr Badge"/>
   </a>
 
 
