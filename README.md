@@ -43,7 +43,6 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :mailbox:How to reach me: jagadeesh.d.pradhani@gmail.com
 
 ---
-[![Fiverr Badge](https://via.placeholder.com/200x50?text=View+My+Fiverr+Profile&color=blue)](https://sites.google.com/view/fiverr-jagadeesh/home)
 
 ### :climbing_man: My Stats:
 
