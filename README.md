@@ -43,23 +43,7 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :mailbox:How to reach me: jagadeesh.d.pradhani@gmail.com
 
 ---
-###
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/jagadeesh_d_p rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-332287c1-efce-4232-bce1-61070b474681' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >jagadeesh_d_p</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Highly skilled Electrical Engineer with a specialization in Robotics Development. I bring to the table extensive expertise in ROS, ROS2, and Gazebo simulation, coupled with a deep understanding of Unmanned Aerial Vehicle (UAV) simulation using Mission Planner and QGroundControl. Moreover, I excel in real-time project implementation through Raspberry Pi integration with ROS for unparalleled performance.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-332287c1-efce-4232-bce1-61070b474681' src='https://widgets.fiverr.com/api/v1/seller/jagadeesh_d_p?widget_id=332287c1-efce-4232-bce1-61070b474681' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
----
 
 ### :climbing_man: My Stats:
 
