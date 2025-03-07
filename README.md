@@ -52,7 +52,7 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-pradhani&hide_progress=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani&theme=transparent" alt="GitHub Streak" /></a>
 
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
