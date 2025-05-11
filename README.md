@@ -49,10 +49,10 @@ I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-pradhani&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true%22"/>
 
-<a href="https://github.com/anuraghazra/convoychat](https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani&theme=transparent">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-pradhani&hide_progress=true&theme=transparent&layout=compact&langs_count=8&card_width=320">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-pradhani&hide_progress=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani&theme=transparent"><img src="https://nirzak-streak-stats.vercel.app/?user=jagadeesh-pradhani&theme=transparent" alt="GitHub Streak" /></a>
 
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
